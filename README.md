@@ -1,6 +1,6 @@
 ### Olá, eu sou o Nelson! 👋
 
-Desenvolvedor Front-end em transição para Full Stack, com foco em criar interfaces modernas e APIs funcionais.
+Desenvolvedor Full Stack com background em suporte técnico e infraestrutura, focado em criar interfaces modernas, APIs funcionais e soluções práticas para o dia a dia.
 
 ---
 
